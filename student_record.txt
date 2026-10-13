@@ -1,0 +1,6 @@
+STUDENT RECORD
+Name: Gabriel L. Gurtiza
+Course: Computer Science
+Year Level: 3rd Year
+Favorite Programming Language: Python
+Career Goal: Software Engineering
